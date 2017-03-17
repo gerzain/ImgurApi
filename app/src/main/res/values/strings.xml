@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ImgurSubirImagen</string>
+    <string name="notificacion_progreso">Subiendo imagen…</string>
+    <string name="notificacion_exitosa">Subida correctamente </string>
+    <string name="compartir_link">Compartir enlace</string>
+    <string name="notificacion_error">Error al subir la imagen</string>
+    <string name="choose">Seleciona una Imagen</string>
+    <string name="upload">Subir</string>
+    <string name="title">Titulo</string>
+    <string name="description">Descripcion</string>
+
+</resources>
