@@ -1,3 +1,8 @@
 ## Descripción
-Se creo con el fin de consumir una Api previamente construida con Slim Framework
-Se puede consultar en el siguiente enlace https://github.com/gerzain/RestApi
+Se creo con el fin de consumir el Api de Imgur mediante la liberia de Retrofit
+
+Para saber como subir una Imagen puedes consultar [https://api.imgur.com/endpoints/image]
+
+##Api imgur
+
+Paara consultar el uso de la Api visita el siguiente enlace [https://api.imgur.com]
